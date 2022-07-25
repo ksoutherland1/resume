@@ -1,0 +1,21 @@
+{
+    "name": "Kate Southerland",
+    "website": "https://katesoutherland.com/",
+    "linkedin": "https://www.linkedin.com/in/katesoutherland/",
+    "github": "ksoutherland1",
+    "email": "hammad.malik@generalassemb.ly",
+    "resume": "https://tomatohammado.github.io/assets/Kate-southerland-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "SonicPi"
+    ]
+}

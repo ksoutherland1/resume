@@ -1,7 +1,7 @@
-"bin": {
-  "your-command-here": "./index.js"
-},
 {
+  "bin": {
+    "your-command-here": "./index.js"
+  },
   "name": "katesoutherland-resume",
   "version": "1.0.0",
   "description": "",
